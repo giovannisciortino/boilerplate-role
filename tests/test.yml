@@ -1,0 +1,6 @@
+---
+- name: Test boilerplate-role role
+  hosts: "{{target_hosts}}"
+  remote_user: root
+  roles:
+    - { role: boilerplate-role }
