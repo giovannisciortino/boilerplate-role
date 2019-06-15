@@ -3,3 +3,7 @@
 - name: Example task 1
   debug:
     msg: Example task 1
+
+- name: Example task 2
+  debug:
+    msg: Example task 2
