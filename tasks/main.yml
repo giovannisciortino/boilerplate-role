@@ -1,0 +1,5 @@
+---
+# tasks file for boilerplate-role
+- name: Example task 1
+  debug:
+    msg: Example task 1
